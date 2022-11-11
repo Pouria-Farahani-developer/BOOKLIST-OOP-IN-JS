@@ -2,9 +2,9 @@
 
 🎬 **Do you want the pages of your site to go back and forth like a movie, so use my code !**
 
-⚠ Warning: In this project, I use your browser's personal memory to save information.
-
 ![image](https://user-images.githubusercontent.com/109727844/201334000-c4315021-6106-4492-9fd2-58e9fa8f52fc.jpg)
+
+⚠ **Warning: In this project, I use your browser's personal memory to save information.**
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/BOOKLIST-OOP-IN-JS/)
 
