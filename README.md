@@ -9,9 +9,9 @@
 
 - 👨‍💻 Developed by pouria farahani
 
-- 📆 Created - 2022-10-10
+- 📆 Created - 2022-11-11
 
-- 🤖 Technologies Used - Html , Css , js
+- 🤖 Technologies Used - Html , Bootstrap , js
 
 - 🕵🏻‍♀️ Role - Frontend
 
