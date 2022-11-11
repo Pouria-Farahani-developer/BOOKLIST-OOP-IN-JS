@@ -2,7 +2,7 @@
 
 🎬 **Do you want the pages of your site to go back and forth like a movie, so use my code !**
 
-![image](https://user-images.githubusercontent.com/109727844/201333737-e9351411-7177-4071-92fd-086e73e210f8.jpg)
+![image](https://user-images.githubusercontent.com/109727844/201334000-c4315021-6106-4492-9fd2-58e9fa8f52fc.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/BOOKLIST-OOP-IN-JS/)
 
